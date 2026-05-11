@@ -1,5 +1,5 @@
 ## 👨‍💻 Olá, meu nome é João Ricardo 🫡
-**Estudante de Engenharia de comtrole e automação**
+**Estudante de Engenharia de controle e automação**
 
 Oi, me chamo João Ricardo Martins Costa, tenho 19 anos e sou de São Paulo. Concluí o ensino médio em 2025 em escola pública e fiz cursos no Senai nas áreas de Front-End, Inteligência Artificial em Nuvem e Proteção de Dados. Atualmente, curso Engenharia de Controle e Automação na FMU. 
 
